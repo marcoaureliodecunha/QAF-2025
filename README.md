@@ -5,8 +5,8 @@ _The complete description of reality in one page._
 
 **November 19, 2025 – Marco Aurelio De Cunha & The Pack**
 
-![QAF Manifesto](QAF One Page.png)
-> *[Download PDF high-resolution version](QAF One Page.pdf)*
+![QAF Manifesto](QAF_One_Page.png)
+> *[Download PDF high-resolution version](QAF_One_Page.pdf)*
 
 ---
 
